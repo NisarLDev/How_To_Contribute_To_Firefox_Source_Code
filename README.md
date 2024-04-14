@@ -6,6 +6,9 @@
 
 I have created this repository to help anyone who wants to know what the steps are to be able to contribute to the Firefox project.
 
+I will progressively add content.
+
+
 
 #### Bibliography
 
