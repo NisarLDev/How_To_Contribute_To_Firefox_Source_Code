@@ -22,9 +22,11 @@ I will progressively add content.
 
 #### The Mozilla Fundation
 
-1 - https://bugs.firefox-dev.tools
+1 - https://codetribute.mozilla.org/
 
-2 - https://hg.mozilla.org/mozilla-central/
+2 - https://bugs.firefox-dev.tools
+
+3 - https://hg.mozilla.org/mozilla-central/
 
 #### Other sources
 
