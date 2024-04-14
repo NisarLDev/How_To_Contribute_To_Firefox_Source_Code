@@ -28,6 +28,8 @@ I will progressively add content.
 
 3 - https://hg.mozilla.org/mozilla-central/
 
+4 - https://firefox-source-docs.mozilla.org/devtools/contributing.html
+
 #### Other sources
 
 1 - https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
