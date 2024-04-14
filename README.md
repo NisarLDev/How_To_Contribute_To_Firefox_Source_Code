@@ -8,6 +8,10 @@ I have created this repository to help anyone who wants to know what the steps a
 
 I will progressively add content.
 
+1 - To contribute, it is recommended to start by creating an account on Bugzilla.
+
+2 - Then you have to install the latest version of Rust (Programming Language) and Mercurial (Version Control System).
+
 
 
 #### Bibliography
