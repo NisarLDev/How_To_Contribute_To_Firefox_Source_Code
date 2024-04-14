@@ -14,7 +14,7 @@ I will progressively add content.
 
 
 [Mercurial installation instructions are located on this web page
-](https://wiki.mozilla.org/GitHub/Repository_Requirements)
+](https://firefox-source-docs.mozilla.org/mobile/android/geckoview/contributor/mc-quick-start.html)
 
 
 
