@@ -36,6 +36,8 @@ I will progressively add content.
 
 7 - https://wiki.mozilla.org/GitHub/Repository_Requirements
 
+8 - https://firefox-source-docs.mozilla.org/mobile/android/geckoview/contributor/mc-quick-start.html
+
 #### Other sources
 
 1 - https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
