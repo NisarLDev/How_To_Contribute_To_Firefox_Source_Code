@@ -13,7 +13,8 @@ I will progressively add content.
 2 - Then you have to install the latest version of Rust (Programming Language) and Mercurial (Version Control System).
 
 
-
+[Mercurial installation instructions are located on this web page
+](https://wiki.mozilla.org/GitHub/Repository_Requirements)
 
 
 
