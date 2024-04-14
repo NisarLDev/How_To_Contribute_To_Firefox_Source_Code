@@ -34,6 +34,8 @@ I will progressively add content.
 
 6 - https://wiki.mozilla.org/Contribute/Why_Contribute
 
+7 - https://wiki.mozilla.org/GitHub/Repository_Requirements
+
 #### Other sources
 
 1 - https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
