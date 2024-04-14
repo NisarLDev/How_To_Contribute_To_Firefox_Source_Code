@@ -16,6 +16,8 @@ I will progressively add content.
 
 1 - https://bugs.firefox-dev.tools
 
+2 - https://hg.mozilla.org/mozilla-central/
+
 #### Other sources
 
 1 - https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
