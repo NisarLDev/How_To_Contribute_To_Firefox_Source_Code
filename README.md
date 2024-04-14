@@ -30,6 +30,8 @@ I will progressively add content.
 
 4 - https://firefox-source-docs.mozilla.org/devtools/contributing.html
 
+5 - https://firefox-source-docs.mozilla.org/devtools/contributing.html#/contributing/filing-good-bugs.html
+
 #### Other sources
 
 1 - https://colin-cazabet.medium.com/how-to-start-contributing-to-firefox-ebad014d9f1
