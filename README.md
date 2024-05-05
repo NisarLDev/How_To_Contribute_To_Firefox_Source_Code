@@ -50,27 +50,27 @@ I will progressively add content.
 
 4 - How to Contribute to Open Source | Open Source Guides
  
-    https://opensource.guide/how-to-contribute/
+  https://opensource.guide/how-to-contribute/
 
 5 - Contribution Guide Overview | Codecademy
 
-    https://www.codecademy.com/resources/docs/contribution-guide
+  https://www.codecademy.com/resources/docs/contribution-guide
 
 6 - How to Contribute to Open Source Projects – A Beginner's Guide
   
-    https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/
+  https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/
 
 7 - Getting started with contributing to open source - Stack Overflow
   
-    https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/
+  https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/
 
 8 - How to Contribute Source Code and Documentation
 
-    https://pylonsproject.org/community-how-to-contribute.html
+  https://pylonsproject.org/community-how-to-contribute.html
 
 9 - Finding ways to contribute to open source on GitHub - GitHub Docs
 
-    https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
+  https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
 
 
 
